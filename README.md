@@ -1,6 +1,11 @@
 # 🏆 Line Follower Robot
 **Model Engineering College — First Prize Winner**
 
+## 📸 Images
+
+![Front View](images/linefollower_frontview.jpeg)
+![Top View](images/topview.jpeg)
+
 Autonomous track navigation with a 9-checkpoint task sequence.
 
 ---
