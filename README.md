@@ -66,25 +66,7 @@ The robot navigates a predefined track with 9 distinct checkpoints, each requiri
 
 ---
 
-## 📁 Repository Structure
-
-```
-📦 line-follower-robot
- ┣ 📂 src/
- ┃ ┣ 📄 main.ino          # Main control loop
- ┃ ┣ 📄 pid.cpp           # PID controller
- ┃ ┣ 📄 sensors.cpp       # QTR-8RC sensor logic
- ┃ ┣ 📄 motors.cpp        # TB6612FNG motor driver
- ┃ ┗ 📄 tasks.cpp         # Checkpoint task handlers
- ┣ 📂 hardware/
- ┃ ┣ 📄 schematic.pdf     # Circuit schematic
- ┃ ┗ 📄 bom.csv           # Bill of materials
- ┣ 📂 docs/
- ┃ ┗ 📄 track_map.png     # Track layout diagram
- ┗ 📄 README.md
-```
-
----
+git 
 
 ## 🏁 Competition Result
 
